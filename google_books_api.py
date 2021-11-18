@@ -1,4 +1,4 @@
-# ****_working with google books api
+# ****_working with google books api (print)
 # ****_Autor: Jakub Koziorowski
 
 import json
